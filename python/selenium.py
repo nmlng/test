@@ -16,5 +16,5 @@ for name in countries:
 	time.sleep(0.2) # Let the page load, will be added to the API
 
 	code = browser.find_element_by_id("countryCode")
-	print name,"\t\t" ,code.text;
+	print (name,"\t\t" , code.text);
 browser.close()
