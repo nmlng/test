@@ -18,3 +18,4 @@ def primes():
       print("PRIME")
 
 primes()
+
