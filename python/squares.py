@@ -1,11 +1,13 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 def squares():
   for x in xrange(1, 100 + 1):
     print (x*x)
 
 squares()
-print
 
+print "\nNuno\n"
 
 def primes():
   print ("1")
