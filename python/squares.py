@@ -9,6 +9,10 @@ squares()
 
 print "\nNuno\n"
 
+
+print "\nJenny\n"
+
+
 def primes():
   print ("1")
   for num in range(2, 50 + 1):
