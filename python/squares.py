@@ -23,5 +23,6 @@ def primes():
     else:
       print("PRIME")
 
+
 primes()
 
